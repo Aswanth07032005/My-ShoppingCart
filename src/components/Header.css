@@ -1,0 +1,41 @@
+
+.header-bg{
+  background: #ffffff;
+  border-bottom: 1px solid #e5e7eb; 
+}
+.header-bg:hover{
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+.nav-link{
+  color: black;
+}
+.nav-link .active{
+    color:black;
+}
+.Logo-size{
+  width: 100px;
+}
+
+.bag-nav {
+  position: relative;
+}
+
+.bag-count {
+  position: absolute;
+  top: 4px;
+  right: 1px;
+  background-color: rgb(252, 0, 0);
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  height: 12px;
+  width: 12px;
+  font-size: 8px;
+}
+.header-bg .dropdown-menu[data-bs-popper]{
+  left: auto;
+  right: 0px;
+}
+ 

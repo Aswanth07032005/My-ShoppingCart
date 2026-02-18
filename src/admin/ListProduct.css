@@ -1,0 +1,19 @@
+.div-align{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+.div-size{
+    text-align: center;
+    border: 2px solid black;
+    width:300px;
+    height: 100px;
+    margin: 2px ;
+}
+.img-size{
+    width: 100px;
+}
+.table-contents-center{
+    text-align: center;
+   vertical-align: middle;
+}

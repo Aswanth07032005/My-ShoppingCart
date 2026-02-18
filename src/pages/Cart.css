@@ -1,0 +1,12 @@
+.img-size{
+    width: 80px;
+    height:80px;
+}
+.center-Item{
+    vertical-align: middle;
+}
+.formCtrl-size{
+    width: 50px;
+    border: 1px solid white;
+    
+}
